@@ -8,7 +8,6 @@
 * [Data structures: Binary Tree](https://intranet.alxswe.com/rltoken/BeyJ2gjlE7_djwRiDyeHig)
 ## Learning Objectives
 
-
 ### General
 
 * What is a binary tree
