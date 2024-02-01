@@ -21,7 +21,7 @@ size_t binary_tree_size(const binary_tree_t *tree)
  * @nodes: the size of nodes.
  * Return: 1 if the binary tree is completed, 0 otherwise.
  */
-is_completed_helper(const binary_tree_t *tree, size_t index, size_t nodes)
+int is_completed_helper(const binary_tree_t *tree, size_t index, size_t nodes)
 {
 	if (!tree)
 		return (1);
