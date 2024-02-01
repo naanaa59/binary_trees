@@ -18,7 +18,6 @@
 * What is a complete, a full, a perfect, a balanced binary tree
 ## Tasks
 
-
 | Task | File |
 | ---- | ---- |
 | 0. New node | [SOON](./) |
