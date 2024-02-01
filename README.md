@@ -1,7 +1,4 @@
 # Project: 0x1D. C - Binary trees
-
-## Resources
-
 #### Read or watch:
 
 * [Binary tree](https://intranet.alxswe.com/rltoken/1F2x42-8vUbOmU4L1C1KMg)
