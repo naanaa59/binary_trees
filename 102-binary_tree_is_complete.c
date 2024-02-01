@@ -29,7 +29,7 @@ is_completed_helper(const binary_tree_t *tree, size_t index, size_t nodes)
 		return (0);
 	return (is_completed_helper(
 				tree->left, 2 * index + 1, nodes) && is_completed_helper(
-					tree->left, 2 * index + 2, nodes));
+					tree->right, 2 * index + 2, nodes));
 }
 
 /**
